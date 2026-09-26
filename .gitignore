@@ -1,0 +1,9 @@
+# Arquivos temporários e de sistema
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Cópias de segurança do ExifTool caso o usuário escolha manter backups
+*_original
